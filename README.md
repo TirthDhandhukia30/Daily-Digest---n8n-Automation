@@ -1,5 +1,9 @@
 # 📩 AI Daily Digest
 
+## WorkFLow
+
+<img width="650" alt="AI Daily Digest Workflow" src="https://github.com/user-attachments/assets/ecdbc417-32f2-45b4-9a80-107f3d930048" />
+
 AI Daily Digest is an automation workflow built with **n8n**, deployed on **Google Cloud**, that delivers daily news and summarized emails straight to your messaging apps.  
 
 ## 🚀 Features
@@ -21,6 +25,4 @@ AI Daily Digest is an automation workflow built with **n8n**, deployed on **Goog
 3. **Gmail & Outlook Triggers** capture new mails → **Gemini Agent** summarizes key points.  
 4. **Discord & Telegram Nodes** send all digests to your chosen channels.  
 
-## WorkFLow
 
-<img width="650" alt="AI Daily Digest Workflow" src="https://github.com/user-attachments/assets/ecdbc417-32f2-45b4-9a80-107f3d930048" />
